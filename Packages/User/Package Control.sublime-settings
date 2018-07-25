@@ -11,9 +11,11 @@
 		"ConvertToUTF8",
 		"CSS Snippets",
 		"DocBlockr",
+		"DoxyDoxygen",
 		"Emmet",
 		"HTML5",
 		"jQuery",
+		"JSONLint",
 		"LiveReload",
 		"Package Control",
 		"SFTP",
@@ -22,6 +24,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
+		"Sublimerge 3",
 		"TortoiseSVN"
 	]
 }
